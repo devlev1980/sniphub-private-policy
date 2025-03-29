@@ -7,6 +7,8 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
+  distDir: 'out',
+  assetPrefix: '/sniphub-private-policy/',
 };
 
 export default nextConfig;
