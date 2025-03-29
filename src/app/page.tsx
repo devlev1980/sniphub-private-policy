@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-900 mb-4">Introduction</h2>
           <p className="text-gray-700 mb-4">
-            SnippetsApp ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our iOS application for managing code snippets.
+            SnippetsApp (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our iOS application for managing code snippets.
           </p>
         </section>
 
