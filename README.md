@@ -1,6 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Privacy Policy for SnippetsApp
 
-## Getting Started
+This repository contains the privacy policy for SnippetsApp, deployed using Next.js and GitHub Pages.
+
+## Deployment
+
+The privacy policy is automatically deployed to GitHub Pages and can be accessed at:
+https://devlev1980.github.io/sniphub-private-policy/
+
+## Local Development
 
 First, run the development server:
 
@@ -8,17 +15,15 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Built With
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Next.js
+- Tailwind CSS
+- GitHub Pages
 
 ## Learn More
 
@@ -28,13 +33,6 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deployment
-
-This project is deployed on GitHub Pages. You can access the live site at:
-[https://devlev1980.github.io/sniphub-private-policy/](https://devlev1980.github.io/sniphub-private-policy/)
-
-The deployment is automated using GitHub Actions. Any push to the main branch will trigger a new deployment.
 
 ## Deploy on Vercel
 
